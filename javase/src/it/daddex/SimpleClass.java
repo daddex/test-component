@@ -19,4 +19,12 @@ public class SimpleClass {
 
 
   }
+ public void newMethodc(){
+
+
+  }
+  public void newMethodSS(){
+
+
+  }
 }
