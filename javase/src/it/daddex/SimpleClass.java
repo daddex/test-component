@@ -10,7 +10,10 @@ public class SimpleClass {
 
   public void newMethod(){}
 
+    public void newNonSaprei(){
 
+
+  }
     public void newMethodA(){
 
 
