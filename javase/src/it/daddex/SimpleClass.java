@@ -23,7 +23,7 @@ public class SimpleClass {
 
 
   }
-  public void newMethodSS(){
+    public void newMethodFF(){
 
 
   }
