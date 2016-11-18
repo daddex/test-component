@@ -7,7 +7,10 @@ public class SimpleClass {
   //modified
     //local change
   //remote changes again bla
+    public void beeeee(){
 
+
+    }
   public void newMethod(){}
 
     public void newNonSaprei(){
