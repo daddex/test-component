@@ -6,6 +6,8 @@ package it.daddex;
 public class SimpleClass {
   //modified
     //local change
-  //my changes
-  //remote changes again
+  //remote changes again bla
+  public void newMethod(){
+
+  }
 }
