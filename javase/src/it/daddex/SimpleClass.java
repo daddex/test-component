@@ -7,4 +7,7 @@ public class SimpleClass {
   //modified
     //local change
   //remote changes again bla
+    public void newMethodA(){
+    
+  }
 }
