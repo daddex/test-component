@@ -33,4 +33,12 @@ public class SimpleClass {
 
 
   }
+    public void bu(){
+
+
+    }
+    public void biiiii(){
+
+
+    }
 }
