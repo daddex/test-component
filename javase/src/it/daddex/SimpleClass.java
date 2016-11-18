@@ -19,4 +19,8 @@ public class SimpleClass {
 
 
   }
+    public void newMethodFF(){
+
+
+  }
 }
