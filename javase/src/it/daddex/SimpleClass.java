@@ -8,6 +8,7 @@ public class SimpleClass {
     //local change
   //remote changes again bla
   //this is an edit in master branch
+  //extra edit in master
     public void beeeee(){
 
 
