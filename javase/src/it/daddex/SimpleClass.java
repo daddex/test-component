@@ -5,5 +5,5 @@ package it.daddex;
  */
 public class SimpleClass {
   //modified
-   //remote change
+    //local change
 }
