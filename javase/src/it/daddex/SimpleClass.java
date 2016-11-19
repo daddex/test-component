@@ -13,6 +13,10 @@ public class SimpleClass {
 
 
     }
+    public void newMETHODONLYONBRANCH(){
+
+
+}
   public void newMethod(){}
 
     public void newNonSaprei(){
