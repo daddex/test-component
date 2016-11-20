@@ -15,7 +15,7 @@ public class SimpleClass {
   }
   
   
-      public void againChangeInMaster_B(){
+      public void againChangeInMaster_B(int i){
 
 
   }
