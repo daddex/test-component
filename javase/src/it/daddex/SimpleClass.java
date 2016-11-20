@@ -9,6 +9,10 @@ public class SimpleClass {
   //remote changes again bla
   //this is an edit in master branch
   //extra edit in master
+  public void againChangeInfeatureDB(){
+
+
+  }
     public void againChangeInMaster(){
 
 
