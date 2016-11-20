@@ -22,6 +22,10 @@ public class SimpleClass {
 
   }
   
+        public void againChangeInMaster_D(int i){
+
+
+  }
       public void againChangeInMaster_C(int i){
 
 
