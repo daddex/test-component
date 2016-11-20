@@ -18,6 +18,11 @@ public class SimpleClass {
 
 
   }
+  
+      public void againChangeInMaster_C(int i){
+
+
+  }
       public void againChangeInMaster_B(int i){
 
 
