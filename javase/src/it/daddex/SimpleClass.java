@@ -13,8 +13,11 @@ public class SimpleClass {
 
 
   }
-  
-  
+
+  public void againChangeInfeatureDB_B(){
+
+
+  }
       public void againChangeInMaster_B(int i){
 
 
