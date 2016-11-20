@@ -3,6 +3,7 @@ package it.daddex;
 /**
  * Created  on 18/11/2016.
  cahnge in master
+ cahnge in master 2
  */
 public class SimpleClass {
   //modified
