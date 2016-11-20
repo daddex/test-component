@@ -11,7 +11,7 @@ public class SimpleClass {
   //extra edit in master
   
   
-      public void againChangeInMaster_B(){
+      public void againChangeInMaster_B(int i){
 
 
   }
