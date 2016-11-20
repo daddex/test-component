@@ -10,7 +10,10 @@ public class SimpleClass {
   //this is an edit in master branch
   //extra edit in master
   
-  
+      public void againChangeInMaster_C(int i){
+
+
+  }
       public void againChangeInMaster_B(int i){
 
 
